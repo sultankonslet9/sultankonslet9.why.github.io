@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <script>
+      alert("haii cantik");
+      alert("aku cuma mau ngomong");
+      alert("i love you<3");
+      alert("tapi boong");
+      alert("eh,gajadi boong");
+      alert("tapi bener")
+      alert("beneran boong. hahaha");
+      alert("candaaa")
+      alert("kali ini bener");
+      alert("lopyu cantikk");
+      alert("makasih:)");
+    </script>
+  </head>
+  <body>
+    <script src="script.js"></script>
+  </body>
+</html>
